@@ -33,15 +33,15 @@ export default function LegalCard() {
               <FaFileDownload className="text-xl" /> Save Contact
             </a>
 
-            <a href="https://wa.me/35799XXXXXX" className="flex items-center justify-center gap-3 w-full py-4 bg-[#25D366] text-white rounded-xl hover:opacity-90 transition-all font-medium">
+            <a href="https://wa.me/35796460035" className="flex items-center justify-center gap-3 w-full py-4 bg-[#25D366] text-white rounded-xl hover:opacity-90 transition-all font-medium">
               <FaWhatsapp className="text-xl" /> WhatsApp
             </a>
 
             <div className="grid grid-cols-2 gap-3">
-              <a href="tel:+35799XXXXXX" className="flex items-center justify-center gap-2 py-4 bg-slate-700 hover:bg-slate-600 rounded-xl transition-all">
+              <a href="tel:+35796460035" className="flex items-center justify-center gap-2 py-4 bg-slate-700 hover:bg-slate-600 rounded-xl transition-all">
                 <FaPhoneAlt /> Call
               </a>
-              <a href="mailto:urlawhero@gmail.com" className="flex items-center justify-center gap-2 py-4 bg-slate-700 hover:bg-slate-600 rounded-xl transition-all">
+              <a href="mailto:info@urlawhero.com" className="flex items-center justify-center gap-2 py-4 bg-slate-700 hover:bg-slate-600 rounded-xl transition-all">
                 <FaEnvelope /> Email
               </a>
             </div>
